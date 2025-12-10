@@ -1,7 +1,7 @@
 # NutriWise Terms & Conditions
 
 ## Acceptance
-- By downloading or using NutriSense, you agree to these Terms.
+- By downloading or using NutriSense Ai, you agree to these Terms.
 - If you do not agree, do not use the app.
 
 ## Service Description
