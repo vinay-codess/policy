@@ -5,7 +5,7 @@
 - If you do not agree, do not use the app.
 
 ## Service Description
-- NutriWise helps analyze food products using barcode scans and label OCR, and provides AI-assisted nutrition insights.
+- NutriSense Ai helps analyze food products using barcode scans and label OCR, and provides AI-assisted nutrition insights.
 - The app uses **Supabase** to store profiles, products, and your scan history.
 - The app uses **Azure Computer Vision** to extract text from label photos and **Together AI** to analyze text and ingredients.
 - **OpenFoodFacts** public API provides product data by barcode.
@@ -32,7 +32,7 @@
 - The app includes a paywall UI and “Pro Plan” status indicators.
 - Payment processing may be handled by an app store or a future provider.
 - Pricing shown in the app is for display purposes; actual purchase terms, billing cycles, renewals, and refunds are governed by the platform used.
-- Premium subscription entitlement may be reflected by `profiles.is_premium` and `profiles.expires_at` fields.
+
 
 ## Third-Party Services
 - **Supabase** stores account and product/scan records with Row Level Security.
