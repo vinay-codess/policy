@@ -16,7 +16,7 @@ For the purposes of this Privacy Policy:
 
 *   **Account** means a unique account created for You to access our Service or parts of our Service.
 *   **Affiliate** means an entity that controls, is controlled by, or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
-*   **Application** refers to **NutriSense Ai**, the software program provided by the Company.
+*   **Application** refers to **NutriWise AI**, the software program provided by the Company.
 *   **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to **NutriSense Ai**.
 *   **Country** refers to: South Carolina, United States
 *   **Device** means any device that can access the Service such as a computer, a cell phone or a digital tablet.
@@ -127,4 +127,4 @@ We will let You know via email and/or a prominent notice on Our Service, prior t
 ## Contact Us
 If you have any questions about this Privacy Policy, You can contact us:
 
-*   By email: support@nutrisense.co.site
+*   By email: support@nutriwise.co.site
