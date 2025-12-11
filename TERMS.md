@@ -1,11 +1,11 @@
-# NutriSense Ai Terms & Conditions
+# NutriWise AI Terms & Conditions
 
 ## Acceptance
-- By downloading or using NutriSense Ai, you agree to these Terms.
+- By downloading or using NutriWise AI, you agree to these Terms.
 - If you do not agree, do not use the app.
 
 ## Service Description
-- NutriSense Ai helps analyze food products using barcode scans and label OCR, and provides AI-assisted nutrition insights.
+- NutriWise AI helps analyze food products using barcode scans and label OCR, and provides AI-assisted nutrition insights.
 - The app uses **Supabase** to store profiles, products, and your scan history.
 - The app uses **Azure Computer Vision** to extract text from label photos and **Together AI** to analyze text and ingredients.
 - **OpenFoodFacts** public API provides product data by barcode.
@@ -77,4 +77,4 @@
 - Disputes will be resolved in the courts of that jurisdiction unless otherwise required by law.
 
 ## Contact
-- For questions about the Terms, email **support@nutrisense.co.site**.
+- For questions about the Terms, email **support@nutriwise.co.site**.
